@@ -11,7 +11,7 @@ public class HelloWorldController {
 		String message="Hello spring MVC how are you";
 		return new ModelAndView("hellopage","msg",message);
 	}
-	//test COMMENT
+	//test COMMENT in remote
 	
 }
 
